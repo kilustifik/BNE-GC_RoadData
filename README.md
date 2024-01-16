@@ -3,4 +3,4 @@
 ![image](https://github.com/kilustifik/BNE-GC_RoadData/assets/147692836/b1e00642-1d91-4261-bd68-2c4420c9f193)
 
 
-Written using Jupyter Notebooks IDE.
+Code written using Jupyter Notebooks IDE.
